@@ -1,0 +1,11 @@
+// Custom variables and mixins
+@import "variables";
+
+// Import Bootstrap files
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Bootstrap Tweaks
+@import "navbar";
+
+// custom scss
